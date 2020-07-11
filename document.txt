@@ -1,2 +1,3 @@
 For ITB Question
 Needs to have the data in binary format
+Can be multiple choice question or Top to Box (likert scale) 
